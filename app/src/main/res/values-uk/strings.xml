@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Five Qadric Surfaces</string>
+    <string name="EllipsoidCaption">Еліпсоїд</string>
+    <string name="EllipticParaboloidCaption">Еліптичний параболоїд</string>
+    <string name="HyperbolicParaboloidCaption">Гіперболічний параболоїд</string>
+    <string name="OneHyperboloidCaption">Однопорожнинний гіперболоїд</string>
+    <string name="PlotSurfaceCaption">Побудувати…</string>
+    <string name="TwoHyperboloidCaptions">Двопорожнинний гіперболоїд</string>
+    <string name="ParamSurface">Вигляд поверхні</string>
+    <string name="SurfCaption">Класичні поверхні другого порядку</string>
+    <string name="btnViewDetail">Деталі про поверхню</string>
+    <string name="detailEllipsoid">https://uk.wikipedia.org/wiki/Еліпсоїд</string>
+    <string name="detailHyperboloid">https://uk.wikipedia.org/wiki/Гіперболоїд</string>
+    <string name="detailParaboloid">https://uk.wikipedia.org/wiki/Параболоїд</string>
+    <string name="surface_equation">Рівняння поверхні</string>
+</resources>

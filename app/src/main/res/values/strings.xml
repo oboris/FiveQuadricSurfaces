@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Five Qadric Surfaces</string>
+    <string name="EllipsoidCaption">Ellipsoid</string>
+    <string name="OneHyperboloidCaption">One Sheet Hyperboloid</string>
+    <string name="TwoHyperboloidCaptions">Two Sheets Hyperboloid</string>
+    <string name="EllipticParaboloidCaption">Elliptic Paraboloid</string>
+    <string name="HyperbolicParaboloidCaption">Hyperbolic Paraboloid</string>
+    <string name="PlotSurfaceCaption">Plot…</string>
+    <string name="ParamSurface">Surface View</string>
+    <string name="SurfCaption">Classical Quadric Surfaces</string>
+    <string name="btnViewDetail">Details about Surface</string>
+    <string name="detailEllipsoid">https://en.wikipedia.org/wiki/Ellipsoid</string>
+    <string name="detailParaboloid">https://en.wikipedia.org/wiki/Paraboloid</string>
+    <string name="detailHyperboloid">https://en.wikipedia.org/wiki/Hyperboloid</string>
+    <string name="imgDescription" translatable="false">Image of Quadric Surface</string>
+    <string name="surface_equation">Surface Equation</string>
+</resources>
